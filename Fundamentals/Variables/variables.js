@@ -27,7 +27,7 @@ const number=[1,2,3,4]
 number.push(7);
 console.log(number)
 
-//number=[34] //! Error
+//number=[34] //! Error  
 
 
 
